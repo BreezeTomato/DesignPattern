@@ -22,7 +22,7 @@
  * Orange 5
  */
 
-package SingletonPattern;
+package CreationalPatterns.SingletonPattern;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

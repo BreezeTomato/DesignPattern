@@ -13,7 +13,7 @@
  * 根据每行输入，输出制作咖啡的过程，包括咖啡类型和添加的调料。
  */
 
-package DecoratorPattern;
+package StructuralPatterns.DecoratorPattern;
 
 import java.util.Scanner;
 

@@ -15,7 +15,7 @@
  * 对于每个矩形，输出一行字符串表示矩形的详细信息，如 "Color: Red, Width: 10,Height: 5"。
  */
 
-package PrototypePattern;
+package CreationalPatterns.PrototypePattern;
 
 import java.util.Scanner;
 

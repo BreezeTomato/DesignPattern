@@ -23,7 +23,7 @@
  * Circle Block
  */
 
-package FactoryMethodPattern;
+package CreationalPatterns.FactoryMethodPattern;
 
 import java.util.ArrayList;
 import java.util.List;

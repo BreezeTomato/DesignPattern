@@ -15,7 +15,7 @@
  * 对于每个操作，输出相应的执行结果。
  */
 
-package BridgePattern;
+package StructuralPatterns.BridgePattern;
 
 import java.util.Scanner;
 

@@ -15,7 +15,7 @@
  * 输出关闭所有设备后的状态，当输入的数字不在1-4范围内时，输出Invalid device code.
  */
 
-package FacadePattern;
+package StructuralPatterns.FacadePattern;
 
 import java.util.Scanner;
 

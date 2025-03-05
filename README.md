@@ -24,7 +24,7 @@
   - Flyweight
   - Proxy
 
-- **Behavioral Patterns**：关注对象之间的职责分配。
+- **Behavioral Patterns**：关注对象之间的职责分配。(TODO)
   - Chain of Responsibility
   - Command
   - Interpreter
@@ -41,3 +41,7 @@
 
 1. 克隆仓库到本地：
 git clone https://github.com/BreezeTomato/DesignPattern.git
+
+## 致谢
+
+感谢**小番茄**在学习过程中的陪伴，使得本仓库的更新得到保障。

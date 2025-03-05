@@ -16,7 +16,7 @@
  * 根据每行输入，输出相应的充电信息。
  */
 
-package AdapterPattern;
+package StructuralPatterns.AdapterPattern;
 
 import java.util.Scanner;
 

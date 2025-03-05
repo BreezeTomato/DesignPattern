@@ -16,7 +16,7 @@
  * 输出公司的组织结构，展示每个部门下的子部门和员工
  */
 
-package CompositePattern;
+package StructuralPatterns.CompositePattern;
 
 import java.util.ArrayList;
 import java.util.List;

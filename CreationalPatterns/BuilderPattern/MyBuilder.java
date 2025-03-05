@@ -16,7 +16,7 @@
  * 对于每笔订单，输出该订单定制的自行车配置。
  */
 
-package BuilderPattern;
+package CreationalPatterns.BuilderPattern;
 
 import java.util.Scanner;
 

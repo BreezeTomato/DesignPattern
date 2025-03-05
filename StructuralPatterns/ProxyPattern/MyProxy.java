@@ -14,7 +14,7 @@
  * 对于每个房子，输出一行，表示是否符合购房条件。如果房屋面积超过100平方米，输出 "YES"；否则输出 "NO"。
  */
 
-package ProxyPattern;
+package StructuralPatterns.ProxyPattern;
 
 import java.util.Scanner;
 

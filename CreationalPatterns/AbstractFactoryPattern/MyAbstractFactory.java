@@ -23,7 +23,7 @@
  * classical soft
  */
 
-package AbstractFactoryPattern;
+package CreationalPatterns.AbstractFactoryPattern;
 
 import java.util.Scanner;
 
